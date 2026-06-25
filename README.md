@@ -1,8 +1,6 @@
 # Instant Transcript & Subtitle Cleaner 🧹
 
-[![Python 3.13+](https://shields.io)](https://python.org)
-[![License: MIT](https://shields.io)](https://opensource.org)
-[![Platform: Windows](https://shields.io)](https://microsoft.com)
+[[Python 3.13+]    [[License: MIT]    [[Platform: Windows]
 
 A lightweight, fully automated GUI application built with Python to instantly clean up raw video transcripts, subtitles, and YouTube exports. Using smart pattern matching, it strips out distracting clutter like timestamps and duration lines, providing clean, readable text ready for books, articles, formatting, or note-taking.
 
